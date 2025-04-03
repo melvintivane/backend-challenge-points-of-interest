@@ -13,6 +13,5 @@ detalhes [neste link](https://github.com/backend-br/desafios/blob/master/points-
 * Spring Data JPA
 * H2
 
-:mag:Baixe o projecto e teste você mesmo na prática.
 
 Developed by Melvin Tivane
